@@ -9,7 +9,7 @@
 <p align="justify">From April 2022 to June 2022, I attended a <a href="https://nycdatascience.com/">12-week data science bootcamp (with machine learning)</a> and produced the following projects:</p>
 
 <ul>
-  <li><b><u>MACHINE LEARNING PERSONAL CAPSTONE PROJECT</u></b><br>
+  <li><u><b>MACHINE LEARNING PERSONAL CAPSTONE PROJECT</b></u><br>
     <b>How Fast Can You CitiBike?</b><br>
     Blog article <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a>.<br>
     GitHub repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>.<br>
@@ -50,7 +50,7 @@
   </li>
 </ul>
 
-<p align="justify">I am presently seeking my first opportuninty in data science, data engineering, or software engineering. My combination of engineering technical expertise as well as experience in business development and field leadership make me ideally suited for a client-facing technical consulting role, but I am also open to positions in internal development and business analysis.</p>
+<p align="justify">I am presently seeking my first opportunity in data science, data engineering, or software engineering. My combination of engineering technical expertise as well as experience in business development and field leadership make me ideally suited for a client-facing technical consulting role, but I am also open to positions in internal development and business analysis.</p>
   
 
 <!--
