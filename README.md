@@ -9,7 +9,7 @@
 <p align="justify">From April 2022 to June 2022, I attended a <a href="https://nycdatascience.com/">12-week data science bootcamp (with machine learning)</a> and produced the following projects:</p>
 
 <ul>
-  <li><u><b>MACHINE LEARNING PERSONAL CAPSTONE PROJECT</b></u><br>
+  <li><span style="text-decoration: underline;"><b>MACHINE LEARNING PERSONAL CAPSTONE PROJECT</b></span><br>
     <b>How Fast Can You CitiBike?</b><br>
     Blog article <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a>.<br>
     GitHub repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>.<br>
