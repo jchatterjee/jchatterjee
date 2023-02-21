@@ -1,6 +1,6 @@
-# Aspiring Data Scientist, Former Civil Engineer
+### Aspiring Data Scientist, Former Civil Engineer
 
-## <p align="justify">Creative data scientist passionate about applying machine learning to physical processes, logistics, and business activities. Blending prior engineering technical and leadership background to solve problems of multiple industries for stakeholders.</p>
+#### <p align="justify">Creative data scientist passionate about applying machine learning to physical processes, logistics, and business activities. Blending prior engineering technical and leadership background to solve problems of multiple industries for stakeholders.</p>
 
 <p align="justify">In February of 2022, I have decided to make the jump that I had long been considering from civil engineer to data science.</p>
 
@@ -10,13 +10,13 @@
 
 <ul>
   <li><b><u>MACHINE LEARNING PERSONAL CAPSTONE PROJECT</u></b><br>
-    <b>How Fast Can You CitiBike?<b><br>
+    <b>How Fast Can You CitiBike?</b><br>
     Blog article <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a>.<br>
     GitHub repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>.<br>
     <p align="justify">Researched NYC CitiBike rider behavior for predicting trip durations with 77% accuracy using Ridge regression and geographically visualizing city-wide travel patterns by borough and neighborhood using geopandas.</p>
   </li>
   <li><b><u>MACHINE LEARNING GROUP PROJECT</u></b><br>
-    <b>A New Hybrid Approach to Data-Driven House Price Predictions<b><br>
+    <b>A New Hybrid Approach to Data-Driven House Price Predictions</b><br>
     Dashboard <a href="https://jchatterjee-nycdsa-ml-project-website-trialapp-gawbnm.streamlitapp.com/">here</a>.<br>
     Blog article <a href="https://nycdatascience.com/blog/student-works/using-data-to-predict-prices-of-houses-in-ames-ia/">here</a>.<br>
     GitHub repo <a href="https://github.com/jchatterjee/nycdsa_ml_project_website">here</a> (for web-based dashboard).<br>
@@ -24,13 +24,13 @@
     <p align="justify">Built an interactive dashboard using streamlit on a scored ElasticNet model with 93% accuracy predicting the price of homes and the value gained by their proposed improvements in Ames, IA.</p>
   </li>
   <li><b><u>DATA VISUALIZATION PERSONAL PROJECT (R/PYTHON)</u></b><br>
-    <b>To eBike or Not to eBike?<b><br>
+    <b>To eBike or Not to eBike?</b><br>
     Blog article <a href="https://nycdatascience.com/blog/student-works/to-ebike-or-not-to-ebike/">here</a>.<br>
     GitHub repo <a href="https://github.com/jchatterjee/nycdsa_r_project">here</a>.<br>
     <p align="justify">Analyzed the feasibility of riding the electric bikes of NYC CitiBike compared to other transit modes using R and Python.</p>
   </li>
   <li><b><u>DATA VISUALIZATION PERSONAL PROJECT (PYTHON)</u></b><br>
-    <b>Winter Olympics Performance by Country and Region (1998 - 2022)<b><br>
+    <b>Winter Olympics Performance by Country and Region (1998 - 2022)</b><br>
     Blog article <a href="https://nycdatascience.com/blog/student-works/winter-olympics-1998-2022/">here</a>.<br>
     GitHub repo <a href="https://github.com/jchatterjee/nycdsa_python_project">here</a>.<br>
     <p align="justify">Visualized the performance of countries in the Winter Olympics as a function of their size and economy using Python.</p>
