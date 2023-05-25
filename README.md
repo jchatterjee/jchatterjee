@@ -1,4 +1,6 @@
-### Aspiring Data Scientist, Former Civil Engineer
+## Data Scientist | Consultant
+
+### Here to help you extract every drop of valuable insight from your data.
 
 #### <p align="justify">Creative data scientist passionate about applying machine learning to physical processes, logistics, and business activities. Blending prior engineering technical and leadership background to solve problems of multiple industries for stakeholders.</p>
 
