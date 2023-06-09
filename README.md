@@ -50,6 +50,9 @@
   <li><a href="https://www.credly.com/badges/edf11527-3165-404d-a701-a126150a9abd/public_url">Astronomer Certification for Apache Airflow Fundamentals</a><br>
   (2022-12-17)
   </li>
+  <li><a href="https://skillshop.credential.net/6322c55e-89bb-4a49-9b4a-4dfbf2418567">Google Analytics Certification</a><br>
+  (2023-06-07)
+  </li>
 </ul>
 
 <p align="justify">I am presently seeking my first opportunity in data science, data engineering, or software engineering. My combination of engineering technical expertise as well as experience in business development and field leadership make me ideally suited for a client-facing technical consulting role, but I am also open to positions in internal development and business analysis.</p>
