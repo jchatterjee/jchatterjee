@@ -2,7 +2,7 @@
 
 ### Here to help you extract every drop of valuable insight from your data.
 
-#### <p align="justify">Creative data scientist passionate about applying machine learning to physical processes, logistics, and business activities. Blending prior engineering technical and leadership background to solve problems of multiple industries for stakeholders.</p>
+#### <p align="justify">Consulting data scientist with broad experiences in machine learning, data engineering, applied statistics, dashboard design, strategy consulting, market research, and instructional design for clients in multiple industries capable of quickly learning and adapting to new technical domains and business environments as well as collaborating with a spectrum of professionals.</p>
 
 <p align="justify">In February of 2022, I have decided to make the jump that I had long been considering from civil engineer to data science.</p>
 
