@@ -1,10 +1,57 @@
-## Data Scientist | Consultant
+## Analytics & AI Consultant | New York, NY
 
-### Here to help you extract every drop of valuable insight from your data.
+### Knowing where AI doesn't belong is how you find where it pays.
 
-#### <p align="justify">Consulting data scientist with broad experiences in machine learning, data engineering, applied statistics, dashboard design, strategy consulting, market research, and instructional design for clients in multiple industries capable of quickly learning and adapting to new technical domains and business environments as well as collaborating with a spectrum of professionals.</p>
+#### <p align="justify">Analytics and AI consultant who builds the forecasting and decision models finance teams, operators, and executives act on, from discovery through deployment.</p>
 
-<p align="justify">In February of 2022, I have decided to make the jump that I had long been considering from civil engineer to data science.</p>
+<p align="justify">I build the forecasting models, dashboards, data pipelines and AI automations that operators, finance teams and executives run their business on. I've been independent since March 2023: Top Rated on Upwork, with 87 engagements and 77 client reviews across financial services, healthcare, real estate and transportation.</p>
+
+<p align="justify">Before that I spent 15 years as a structural engineer. In that work every calculation is checked independently before it carries load, and I bring the same discipline to models and data.</p>
+
+## What I Work on Now
+
+<p align="justify">
+  <ul>
+    <li><b>AI Agents and Workflow Automation:</b> n8n agents that combine LLMs, APIs, routing logic and human-in-the-loop review</li>
+    <li><b>LLM Evaluation:</b> structured model evaluation, red-teaming, and source validation for retrieval-augmented generation (RAG)</li>
+    <li><b>Forecasting and Decision Models:</b> workforce capacity, demand and revenue models, plus the dashboards leadership runs on every day</li>
+    <li><b>Data Engineering:</b> SQL, BigQuery and Airflow pipelines, and consolidating legacy databases</li>
+    <li><b>Quantitative Research:</b> automated trading strategies and broker API integrations</li>
+  </ul>
+  </p>
+
+<p align="justify">Most of this work is under client confidentiality, so it lives in private repositories. I'm happy to walk through any of it.</p>
+
+## My Stack
+
+<p align="justify">
+  <ul>
+    <li><b>Large Language Models:</b> Anthropic Claude ∙ OpenAI ChatGPT ∙ Google Gemini ∙ Meta Llama</li>
+    <li><b>Programming Languages:</b> Python ∙ SQL ∙ JavaScript ∙ TypeScript ∙ C# ∙ VBA ∙ R ∙ Scala</li>
+    <li><b>Database Architecture:</b> Microsoft SQL Server ∙ PostgreSQL ∙ MySQL ∙ MongoDB</li>
+    <li><b>Workflow Orchestration:</b> n8n ∙ Microsoft Power Platform ∙ Apache Airflow</li>
+    <li><b>Analytics and Visualization:</b> Excel ∙ Power BI ∙ Tableau ∙ Looker</li>
+  </ul>
+  </p>
+
+## My Certifications
+
+<ul>
+  <li><a href="https://credentials.databricks.com/2eff541d-aff9-4f8e-a36c-b576d9b102b4">Databricks Certified Associate Developer for Apache Spark 3.0</a> (2022)</li>
+  <li><a href="https://www.credly.com/badges/edf11527-3165-404d-a701-a126150a9abd/public_url">Astronomer Certification for Apache Airflow Fundamentals</a> (2022)</li>
+  <li><a href="https://skillshop.credential.net/6322c55e-89bb-4a49-9b4a-4dfbf2418567">Google Analytics Certification</a> (2023)</li>
+</ul>
+
+## My Education
+
+<ul>
+  <li>M.Eng. Ocean Engineering, Stevens Institute of Technology</li>
+  <li>B.S. Civil and Environmental Engineering, Cornell University</li>
+</ul>
+
+## My "Aha" Moment
+
+<p align="justify">In February of 2022, I have decided to make the jump that I had long been considering to data science.</p>
 
 <p align="justify">Having harnessed an <a href="https://docs.bentley.com/LiveContent/web/STAAD.Pro%20Help-v18/en/OpenSTAAD_HELP_HOME.html">API for a popular structural engineering program</a> for simplifying and enhancing the design of a marine wharf in my past position, I fell in love with coding and utilizing large data sets towards solving complex problems in engineering and beyond.</p>
 
@@ -38,37 +85,3 @@
     <p align="justify">Visualized the performance of countries in the Winter Olympics as a function of their size and economy using Python.</p>
   </li>
 </ul>
-
-<p align="justify">During this experience, I completed over 500 hours of hands-on experience with Python, MySQL, R, Git/GitHub, and Machine Learning. The topics included statistics, simple linear regression, multiple linear regression, generalized linear models, decision trees, gradient boosting, Ridge and Lasso regression, support vector machines, neural networks, clustering, imputing missing values, and other machine learning algorithms.</p>
-
-<p align="justify">In addition to this bootcamp, I took the initiative to obtain the following certifications afterwards:</p>
-
-<ul>
-  <li><a href="https://credentials.databricks.com/2eff541d-aff9-4f8e-a36c-b576d9b102b4">Databricks Certified Associate Developer for Apache Spark 3.0</a><br>
-  (2022-11-23)
-  </li>
-  <li><a href="https://www.credly.com/badges/edf11527-3165-404d-a701-a126150a9abd/public_url">Astronomer Certification for Apache Airflow Fundamentals</a><br>
-  (2022-12-17)
-  </li>
-  <li><a href="https://skillshop.credential.net/6322c55e-89bb-4a49-9b4a-4dfbf2418567">Google Analytics Certification</a><br>
-  (2023-06-07)
-  </li>
-</ul>
-
-<p align="justify">I am presently seeking my first opportunity in data science, data engineering, or software engineering. My combination of engineering technical expertise as well as experience in business development and field leadership make me ideally suited for a client-facing technical consulting role, but I am also open to positions in internal development and business analysis.</p>
-  
-
-<!--
-**jchatterjee/jchatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
