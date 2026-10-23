@@ -83,6 +83,34 @@
 
 <p align="justify">From April 2022 to June 2022, I attended a <a href="https://nycdatascience.com/">12-week data science bootcamp (with machine learning)</a> and produced the following projects:</p>
 
+<table>
+  <tr>
+    <td>
+      <b>MACHINE LEARNING INDIVIDUAL CAPSTONE PROJECT</b></span><br>
+  <b><i>How Fast Can You CitiBike?</i></b><br>
+  Blog article <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a>.<br>
+  GitHub repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>.<br>
+    </td>
+    <td>Researched NYC CitiBike rider behavior for predicting trip durations with 77% accuracy using Ridge regression and geographically visualizing city-wide travel patterns by borough and neighborhood using geopandas.</td>
+  </tr>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>Python, SQL, JavaScript, TypeScript, C#, VBA, R, Scala</td>
+  </tr>
+  <tr>
+    <td><b>Database Architecture</b></td>
+    <td>Microsoft SQL Server, PostgreSQL, MySQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Workflow Orchestration</b></td>
+    <td>n8n, Microsoft Power Platform, Apache Airflow</td>
+  </tr>
+  <tr>
+    <td><b>Analytics and Visualization</b></td>
+    <td>Excel, Power BI, Tableau, Looker</td>
+  </tr>
+</table>
+
 <ul>
   <li><b>MACHINE LEARNING INDIVIDUAL CAPSTONE PROJECT</b></span><br>
    <b><i>How Fast Can You CitiBike?</i></b><br>
