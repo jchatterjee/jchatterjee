@@ -86,32 +86,49 @@
 <table>
   <tr>
     <td>
-      <b>MACHINE LEARNING INDIVIDUAL CAPSTONE PROJECT</b></span><br>
-  <b><i>How Fast Can You CitiBike?</i></b><br>
-  Blog article <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a>.<br>
-  GitHub repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>.<br>
+      <b><i>How Fast Can You CitiBike?</i></b><br>
+      Blog <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a><br>
+      Repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a><br>
     </td>
-    <td>Researched NYC CitiBike rider behavior for predicting trip durations with 77% accuracy using Ridge regression and geographically visualizing city-wide travel patterns by borough and neighborhood using geopandas.</td>
+    <td>
+      Researched NYC CitiBike rider behavior for predicting trip durations with 77% accuracy using Ridge regression and geographically visualizing city-wide travel patterns by borough and neighborhood using geopandas
+    </td>
   </tr>
   <tr>
-    <td><b>Programming Languages</b></td>
-    <td>Python, SQL, JavaScript, TypeScript, C#, VBA, R, Scala</td>
+    <td>
+      <b><i>A New Hybrid Approach to Data-Driven House Price Predictions</i></b><br>
+      Dashboard <a href="https://jchatterjee-nycdsa-ml-project-website-trialapp-gawbnm.streamlitapp.com/">here</a><br>
+      Blog <a href="https://nycdatascience.com/blog/student-works/using-data-to-predict-prices-of-houses-in-ames-ia/">here</a><br>
+      Dash Repo <a href="https://github.com/jchatterjee/nycdsa_ml_project_website">here</a><br>
+      Model Repo <a href="https://github.com/MonikaSinghGit/AmesIowa">here</a><br>
+    </td>
+    <td>
+      Built an interactive dashboard using streamlit on a scored ElasticNet model with 93% accuracy predicting the price of homes and the value gained by their proposed improvements in Ames, IA
+    </td>
   </tr>
   <tr>
-    <td><b>Database Architecture</b></td>
-    <td>Microsoft SQL Server, PostgreSQL, MySQL, MongoDB</td>
+    <td>
+      <b><i>To eBike or Not to eBike?</i></b><br>
+      Blog <a href="https://nycdatascience.com/blog/student-works/to-ebike-or-not-to-ebike/">here</a><br>
+      Repo <a href="https://github.com/jchatterjee/nycdsa_r_project">here</a><br>
+    </td>
+    <td>
+      Analyzed the feasibility of riding the electric bikes of NYC CitiBike compared to other transit modes using R and Python
+    </td>
   </tr>
   <tr>
-    <td><b>Workflow Orchestration</b></td>
-    <td>n8n, Microsoft Power Platform, Apache Airflow</td>
-  </tr>
-  <tr>
-    <td><b>Analytics and Visualization</b></td>
-    <td>Excel, Power BI, Tableau, Looker</td>
+    <td>
+      <b><i>Winter Olympics Performance by Country and Region (1998 - 2022)</i></b><br>
+      Blog <a href="https://nycdatascience.com/blog/student-works/winter-olympics-1998-2022/">here</a><br>
+      Repo <a href="https://github.com/jchatterjee/nycdsa_python_project">here</a><br>
+    </td>
+    <td>
+      Visualized the performance of countries in the Winter Olympics as a function of their size and economy using Python
+    </td>
   </tr>
 </table>
 
-<ul>
+<!-- <ul>
   <li><b>MACHINE LEARNING INDIVIDUAL CAPSTONE PROJECT</b></span><br>
    <b><i>How Fast Can You CitiBike?</i></b><br>
     Blog article <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a>.<br>
@@ -138,4 +155,4 @@
     GitHub repo <a href="https://github.com/jchatterjee/nycdsa_python_project">here</a>.<br>
     <p align="justify">Visualized the performance of countries in the Winter Olympics as a function of their size and economy using Python.</p>
   </li>
-</ul>
+</ul> -->
