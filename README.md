@@ -97,7 +97,7 @@
     <td>
       Researched NYC CitiBike rider behavior for predicting trip durations with 77% accuracy using Ridge regression and geographically visualizing city-wide travel patterns by borough and neighborhood using geopandas
     </td>
-  </tr>
+  <!-- </tr>
   <tr>
     <td>
       <b><i>A New Hybrid Approach to Data-Driven House Price Predictions</i></b> 
@@ -133,5 +133,5 @@
     <td>
       Visualized the performance of countries in the Winter Olympics as a function of their size and economy using Python
     </td>
-  </tr>
+  </tr> -->
 </table>
