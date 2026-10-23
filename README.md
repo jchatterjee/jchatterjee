@@ -88,9 +88,11 @@
     <td>
       <b><i>How Fast Can You CitiBike?</i></b>
     </td>
-    <td style="white-space: nowrap;">
-      Blog <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a><br>
-      Repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>
+    <td>
+      <span style="white-space: nowrap;">
+        Blog <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a><br>
+        Repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>
+      </span>
     </td>
     <td>
       Researched NYC CitiBike rider behavior for predicting trip durations with 77% accuracy using Ridge regression and geographically visualizing city-wide travel patterns by borough and neighborhood using geopandas
