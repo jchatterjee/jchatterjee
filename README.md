@@ -89,22 +89,20 @@
       <b><i>How Fast Can You CitiBike?</i></b>
     </td>
     <td>
-      <span style="white-space: nowrap;">
-        Blog <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a><br>
-        Repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>
-      </span>
+        <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">Blog</a><br>
+        <a href="https://github.com/jchatterjee/nycdsa_capstone">Repo</a>
     </td>
     <td>
       Researched NYC CitiBike rider behavior for predicting trip durations with 77% accuracy using Ridge regression and geographically visualizing city-wide travel patterns by borough and neighborhood using geopandas
     </td>
-  <!-- </tr>
+  </tr>
   <tr>
     <td>
       <b><i>A New Hybrid Approach to Data-Driven House Price Predictions</i></b> 
     </td>
     <td style="white-space: nowrap;">
-      Dash <a href="https://jchatterjee-nycdsa-ml-project-website-trialapp-gawbnm.streamlitapp.com/">here</a><br>
-      Repo <a href="https://github.com/jchatterjee/nycdsa_ml_project_website">here</a>
+      <a href="https://jchatterjee-nycdsa-ml-project-website-trialapp-gawbnm.streamlitapp.com/">Dash</a><br>
+      <a href="https://github.com/jchatterjee/nycdsa_ml_project_website">Repo</a>
     </td>
     <td>
       Built an interactive dashboard using streamlit on a scored ElasticNet model with 93% accuracy predicting the price of homes and the value gained by their proposed improvements in Ames, IA
@@ -115,8 +113,8 @@
       <b><i>To eBike or Not to eBike?</i></b>
     </td>
     <td style="white-space: nowrap;">
-      Blog <a href="https://nycdatascience.com/blog/student-works/to-ebike-or-not-to-ebike/">here</a><br>
-      Repo <a href="https://github.com/jchatterjee/nycdsa_r_project">here</a>
+      <a href="https://nycdatascience.com/blog/student-works/to-ebike-or-not-to-ebike/">Blog</a><br>
+      <a href="https://github.com/jchatterjee/nycdsa_r_project">Repo</a>
     </td>
     <td>
       Analyzed the feasibility of riding the electric bikes of NYC CitiBike compared to other transit modes using R and Python
@@ -127,11 +125,11 @@
       <b><i>Winter Olympics Performance by Country and Region (1998 - 2022)</i></b>
     </td>
     <td style="white-space: nowrap;">
-      Blog <a href="https://nycdatascience.com/blog/student-works/winter-olympics-1998-2022/">here</a><br>
-      Repo <a href="https://github.com/jchatterjee/nycdsa_python_project">here</a>
+      <a href="https://nycdatascience.com/blog/student-works/winter-olympics-1998-2022/">Blog</a><br>
+      <a href="https://github.com/jchatterjee/nycdsa_python_project">Repo</a>
     </td>
     <td>
       Visualized the performance of countries in the Winter Olympics as a function of their size and economy using Python
     </td>
-  </tr> -->
+  </tr>
 </table>
