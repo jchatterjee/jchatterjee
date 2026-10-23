@@ -83,12 +83,18 @@
 
 <p align="justify">From April 2022 to June 2022, I attended a <a href="https://nycdatascience.com/">12-week data science bootcamp (with machine learning)</a> and produced the following projects:</p>
 
+<style>
+  .no-wrap {
+    white-space: nowrap;
+  }
+</style>
+
 <table>
   <tr>
     <td>
       <b><i>How Fast Can You CitiBike?</i></b>
     </td>
-    <td>
+    <td class="no-wrap">
       Blog <a href="https://nycdatascience.com/blog/student-works/how-fast-can-you-citibike/">here</a><br>
       Repo <a href="https://github.com/jchatterjee/nycdsa_capstone">here</a>
     </td>
@@ -100,7 +106,7 @@
     <td>
       <b><i>A New Hybrid Approach to Data-Driven House Price Predictions</i></b> 
     </td>
-    <td>
+    <td class="no-wrap">
       Dash <a href="https://jchatterjee-nycdsa-ml-project-website-trialapp-gawbnm.streamlitapp.com/">here</a><br>
       Repo <a href="https://github.com/jchatterjee/nycdsa_ml_project_website">here</a>
     </td>
@@ -112,7 +118,7 @@
     <td>
       <b><i>To eBike or Not to eBike?</i></b>
     </td>
-    <td>
+    <td class="no-wrap">
       Blog <a href="https://nycdatascience.com/blog/student-works/to-ebike-or-not-to-ebike/">here</a><br>
       Repo <a href="https://github.com/jchatterjee/nycdsa_r_project">here</a>
     </td>
@@ -124,7 +130,7 @@
     <td>
       <b><i>Winter Olympics Performance by Country and Region (1998 - 2022)</i></b>
     </td>
-    <td>
+    <td class="no-wrap">
       Blog <a href="https://nycdatascience.com/blog/student-works/winter-olympics-1998-2022/">here</a><br>
       Repo <a href="https://github.com/jchatterjee/nycdsa_python_project">here</a>
     </td>
