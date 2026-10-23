@@ -10,7 +10,30 @@
 
 ## What I Work on Now
 
-<p align="justify">
+<table>
+  <tr>
+    <td>AI Agents and Workflow Automation</td>
+    <td>n8n agents that combine LLMs, APIs, routing logic and human-in-the-loop review</td>
+  </tr>
+  <tr>
+    <td>LLM Evaluation</td>
+    <td>structured model evaluation, red-teaming, and source validation for retrieval-augmented generation (RAG)</td>
+  </tr>
+  <tr>
+    <td>Forecasting and Decision Modelsn</td>
+    <td>workforce capacity, demand and revenue models, plus the dashboards leadership runs on every day</td>
+  </tr>
+  <tr>
+    <td>Data Engineering</td>
+    <td>SQL, BigQuery and Airflow pipelines, and consolidating legacy databases</td>
+  </tr>
+  <tr>
+    <td>Quantitative Research</td>
+    <td>automated trading strategies and broker API integrations</td>
+  </tr>
+</table>
+
+<!-- <p align="justify">
   <ul>
     <li><b>AI Agents and Workflow Automation:</b> n8n agents that combine LLMs, APIs, routing logic and human-in-the-loop review</li>
     <li><b>LLM Evaluation:</b> structured model evaluation, red-teaming, and source validation for retrieval-augmented generation (RAG)</li>
@@ -18,7 +41,7 @@
     <li><b>Data Engineering:</b> SQL, BigQuery and Airflow pipelines, and consolidating legacy databases</li>
     <li><b>Quantitative Research:</b> automated trading strategies and broker API integrations</li>
   </ul>
-  </p>
+  </p> -->
 
 <p align="justify">Most of this work is under client confidentiality, so it lives in private repositories. I'm happy to walk through any of it.</p>
 
